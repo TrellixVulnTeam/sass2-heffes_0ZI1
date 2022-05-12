@@ -1,0 +1,6 @@
+@import "../variables/variables";
+
+@mixin cuerpo{
+    font-family: 'Roboto', sans-serif;
+    background-color: $color-fondo-body;
+}

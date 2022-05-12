@@ -1,0 +1,8 @@
+@import "../variables/variables";
+@import "../sass2/mixins";
+@import "../sass2/extend";
+
+.main-section-arriba{
+    background-image: url(../img/background-main.png);
+    border-bottom: 3px solid rgb(78, 90, 255);
+}

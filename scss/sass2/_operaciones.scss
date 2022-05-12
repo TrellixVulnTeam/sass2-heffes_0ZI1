@@ -1,0 +1,14 @@
+@import "../variables/variables";
+
+.main-section-arriba-img{
+    width: ($ancho)-15%;
+    display: block;
+    margin: auto;
+    padding: 100px;
+}
+.main-section-arriba-h1{
+    font-size: $tamaño-fuente*1.5;
+    color: white;
+    text-align: center;
+    padding-bottom: 110px;
+}
