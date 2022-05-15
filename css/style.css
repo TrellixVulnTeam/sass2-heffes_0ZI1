@@ -11,12 +11,12 @@
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -25,10 +25,10 @@
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
@@ -86,16 +86,16 @@ footer {
   display: flex;
   justify-content: space-evenly; }
 
-.section-productos h2 {
+.section-productos h2, .productos-generales h2 {
   margin-bottom: 30px; }
 
-.section-productos-div h3, .section-productos h3 {
+.section-productos-div h3, .productos-generales h3 {
   font-size: 220%;
   border-bottom: 2px solid #009c05;
   padding: 10px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-productos-div p, .section-productos p {
+.section-productos-div p, .productos-generales p {
   font-size: 120%; }
 
 .section-nosotros h2 {
@@ -135,12 +135,12 @@ form {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -149,10 +149,10 @@ form {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
@@ -218,12 +218,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -232,10 +232,10 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
@@ -298,12 +298,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -312,10 +312,10 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
@@ -382,12 +382,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -396,10 +396,10 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
@@ -462,12 +462,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -476,10 +476,10 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
@@ -542,12 +542,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -556,10 +556,10 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
@@ -622,12 +622,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -636,10 +636,10 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
@@ -702,12 +702,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, .productos-generales {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, .section-productos {
+.section-productos-div, .productos-generales {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -716,10 +716,10 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, .section-productos {
+.section-productos-div:hover, .productos-generales {
   width: 50%; }
 
-.section-productos-div-parrafos, .section-productos {
+.section-productos-div-parrafos, .productos-generales {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 

@@ -2,6 +2,6 @@
 @import "../sass2/mixins";
 @import "../sass2/extend";
 
-.section-productos{
+.productos-generales{
     @extend .section-productos, .section-productos-div, .section-productos-div:hover, .section-productos-div-parrafos;
 }
