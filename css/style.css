@@ -11,12 +11,12 @@
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -25,14 +25,14 @@
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -43,7 +43,7 @@
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
@@ -86,19 +86,19 @@ footer {
   display: flex;
   justify-content: space-evenly; }
 
-.section-productos h2, main h2 {
+.section-productos h2 {
   margin-bottom: 30px; }
 
-.section-productos-div h3, main h3 {
+.section-productos-div h3, .section-productos h3 {
   font-size: 220%;
   border-bottom: 2px solid #009c05;
   padding: 10px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-productos-div p, main p {
+.section-productos-div p, .section-productos p {
   font-size: 120%; }
 
-.section-nosotros h2, main h2 {
+.section-nosotros h2 {
   margin-bottom: 20px; }
 
 .section-div2 a, .nuestros-trabajos a {
@@ -135,12 +135,12 @@ form {
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -149,14 +149,14 @@ form {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -167,7 +167,7 @@ form {
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
@@ -218,12 +218,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -232,14 +232,14 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -250,7 +250,7 @@ footer img {
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
@@ -298,12 +298,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -312,14 +312,14 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -330,7 +330,7 @@ footer img {
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
@@ -382,12 +382,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -396,14 +396,14 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -414,7 +414,7 @@ footer img {
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
@@ -462,12 +462,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -476,14 +476,14 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -494,7 +494,7 @@ footer img {
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
@@ -542,12 +542,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -556,14 +556,14 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -574,7 +574,7 @@ footer img {
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
@@ -622,12 +622,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -636,14 +636,14 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -654,7 +654,7 @@ footer img {
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
@@ -702,12 +702,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos, main {
+.section-productos {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div, main {
+.section-productos-div, .section-productos {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -716,14 +716,14 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover, main {
+.section-productos-div:hover, .section-productos {
   width: 50%; }
 
-.section-productos-div-parrafos, main {
+.section-productos-div-parrafos, .section-productos {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-nosotros, main {
+.section-nosotros {
   color: white;
   width: 85%;
   margin: auto;
@@ -734,7 +734,7 @@ footer img {
   border-radius: 7px;
   font-size: 150%; }
 
-.section-nosotros-h2, main {
+.section-nosotros-h2, .section-nosotros {
   margin-top: 20px; }
 
 .section-div1, .nuestros-trabajos {
