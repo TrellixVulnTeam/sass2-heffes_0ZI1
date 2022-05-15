@@ -12,3 +12,24 @@
     text-decoration: none;
     color: white;
 }
+.section-productos{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+.section-productos-div{
+    border: 5px solid rgb(196, 196, 196);
+    width: 40%;
+    margin: auto;
+    box-shadow: 0px 10px 20px black;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    transition: width .2s;
+}
+.section-productos-div:hover{
+    width: 50%;
+}
+.section-productos-div-parrafos{
+    padding: 15px;
+    background-color:rgba(7, 0, 110, 0.1);
+}
