@@ -11,12 +11,12 @@
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, main {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div {
+.section-productos-div, main {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -25,12 +25,26 @@
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover {
+.section-productos-div:hover, main {
   width: 50%; }
 
-.section-productos-div-parrafos {
+.section-productos-div-parrafos, main {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
+
+.section-nosotros, main {
+  color: white;
+  width: 85%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 2px solid #009c05;
+  border-radius: 7px;
+  font-size: 150%; }
+
+.section-nosotros-h2, main {
+  margin-top: 20px; }
 
 footer {
   color: white;
@@ -39,17 +53,20 @@ footer {
   display: flex;
   justify-content: space-evenly; }
 
-.section-productos h2 {
+.section-productos h2, main h2 {
   margin-bottom: 30px; }
 
-.section-productos-div h3 {
+.section-productos-div h3, main h3 {
   font-size: 220%;
   border-bottom: 2px solid #009c05;
   padding: 10px;
   background-color: rgba(7, 0, 110, 0.1); }
 
-.section-productos-div p {
+.section-productos-div p, main p {
   font-size: 120%; }
+
+.section-nosotros h2, main h2 {
+  margin-bottom: 20px; }
 
 .main-section-arriba-img {
   width: 85%;
@@ -75,12 +92,12 @@ footer {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, main {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div {
+.section-productos-div, main {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -89,12 +106,26 @@ footer {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover {
+.section-productos-div:hover, main {
   width: 50%; }
 
-.section-productos-div-parrafos {
+.section-productos-div-parrafos, main {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
+
+.section-nosotros, main {
+  color: white;
+  width: 85%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 2px solid #009c05;
+  border-radius: 7px;
+  font-size: 150%; }
+
+.section-nosotros-h2, main {
+  margin-top: 20px; }
 
 footer img {
   width: 30%; }
@@ -111,12 +142,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, main {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div {
+.section-productos-div, main {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -125,12 +156,26 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover {
+.section-productos-div:hover, main {
   width: 50%; }
 
-.section-productos-div-parrafos {
+.section-productos-div-parrafos, main {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
+
+.section-nosotros, main {
+  color: white;
+  width: 85%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 2px solid #009c05;
+  border-radius: 7px;
+  font-size: 150%; }
+
+.section-nosotros-h2, main {
+  margin-top: 20px; }
 
 .nav, nav {
   background-image: linear-gradient(to right, #349744, #187427, #064b0c);
@@ -144,12 +189,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, main {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div {
+.section-productos-div, main {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -158,12 +203,26 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover {
+.section-productos-div:hover, main {
   width: 50%; }
 
-.section-productos-div-parrafos {
+.section-productos-div-parrafos, main {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
+
+.section-nosotros, main {
+  color: white;
+  width: 85%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 2px solid #009c05;
+  border-radius: 7px;
+  font-size: 150%; }
+
+.section-nosotros-h2, main {
+  margin-top: 20px; }
 
 .main-section-arriba {
   background-image: url(../img/background-main.png);
@@ -181,12 +240,12 @@ footer img {
   text-decoration: none;
   color: white; }
 
-.section-productos {
+.section-productos, main {
   color: white;
   text-align: center;
   margin-top: 30px; }
 
-.section-productos-div {
+.section-productos-div, main {
   border: 5px solid #c4c4c4;
   width: 40%;
   margin: auto;
@@ -195,12 +254,120 @@ footer img {
   margin-bottom: 30px;
   transition: width .2s; }
 
-.section-productos-div:hover {
+.section-productos-div:hover, main {
   width: 50%; }
 
-.section-productos-div-parrafos {
+.section-productos-div-parrafos, main {
   padding: 15px;
   background-color: rgba(7, 0, 110, 0.1); }
+
+.section-nosotros, main {
+  color: white;
+  width: 85%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 2px solid #009c05;
+  border-radius: 7px;
+  font-size: 150%; }
+
+.section-nosotros-h2, main {
+  margin-top: 20px; }
+
+.nav, nav {
+  background-image: linear-gradient(to right, #349744, #187427, #064b0c);
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: 125%; }
+
+.nav-a, nav {
+  text-decoration: none;
+  color: white; }
+
+.section-productos, main {
+  color: white;
+  text-align: center;
+  margin-top: 30px; }
+
+.section-productos-div, main {
+  border: 5px solid #c4c4c4;
+  width: 40%;
+  margin: auto;
+  box-shadow: 0px 10px 20px black;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  transition: width .2s; }
+
+.section-productos-div:hover, main {
+  width: 50%; }
+
+.section-productos-div-parrafos, main {
+  padding: 15px;
+  background-color: rgba(7, 0, 110, 0.1); }
+
+.section-nosotros, main {
+  color: white;
+  width: 85%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 2px solid #009c05;
+  border-radius: 7px;
+  font-size: 150%; }
+
+.section-nosotros-h2, main {
+  margin-top: 20px; }
+
+.nav, nav {
+  background-image: linear-gradient(to right, #349744, #187427, #064b0c);
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: 125%; }
+
+.nav-a, nav {
+  text-decoration: none;
+  color: white; }
+
+.section-productos, main {
+  color: white;
+  text-align: center;
+  margin-top: 30px; }
+
+.section-productos-div, main {
+  border: 5px solid #c4c4c4;
+  width: 40%;
+  margin: auto;
+  box-shadow: 0px 10px 20px black;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  transition: width .2s; }
+
+.section-productos-div:hover, main {
+  width: 50%; }
+
+.section-productos-div-parrafos, main {
+  padding: 15px;
+  background-color: rgba(7, 0, 110, 0.1); }
+
+.section-nosotros, main {
+  color: white;
+  width: 85%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 2px solid #009c05;
+  border-radius: 7px;
+  font-size: 150%; }
+
+.section-nosotros-h2, main {
+  margin-top: 20px; }
 
 body {
   font-family: 'Roboto', sans-serif;

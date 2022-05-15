@@ -3,5 +3,5 @@
 @import "../sass2/extend";
 
 main{
-    @extend .section-productos, .section-productos-div, .section-productos-div:hover, .section-productos-div-parrafos,
+    @extend .section-productos, .section-productos-div, .section-productos-div:hover, .section-productos-div-parrafos;
 }

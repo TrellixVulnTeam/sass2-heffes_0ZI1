@@ -1,0 +1,7 @@
+@import "../variables/variables";
+@import "../sass2/mixins";
+@import "../sass2/extend";
+
+main{
+    @extend .section-nosotros, .section-nosotros-h2;
+}
