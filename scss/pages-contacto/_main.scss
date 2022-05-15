@@ -1,0 +1,10 @@
+@import "../variables/variables";
+@import "../sass2/mixins";
+@import "../sass2/extend";
+
+.h2-contactanos{
+    @extend .h2-contactanos;
+}
+.formulario {
+    @extend .formulario;
+}
