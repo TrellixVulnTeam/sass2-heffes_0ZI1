@@ -1,6 +1,6 @@
 @import "../variables/variables";
-@import "../sass2/mixins";
-@import "../sass2/extend";
+@import "../partials/mixins";
+@import "../partials/extend";
 
 .productos-generales{
     @extend .section-productos, .section-productos-div, .section-productos-div:hover, .section-productos-div-parrafos;

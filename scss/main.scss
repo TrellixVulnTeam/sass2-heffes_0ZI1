@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 @import "variables/variables";
-@import "sass2/extend";
-@import "sass2/maps";
-@import "sass2/mixins";
-@import "sass2/operaciones";
+@import "partials/extend";
+@import "partials/maps";
+@import "partials/mixins";
+@import "partials/operaciones";
 @import "partials/footer";
 @import "partials/header";
 @import "pages-index/main";
